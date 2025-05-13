@@ -1,0 +1,8 @@
+# Ignore everything that does not have an extension
+*
+!/**/
+!*.*
+
+# Ignore all output files
+*.o
+*.a
