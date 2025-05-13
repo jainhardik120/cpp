@@ -6,3 +6,5 @@
 # Ignore all output files
 *.o
 *.a
+*.so
+*.out
