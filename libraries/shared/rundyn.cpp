@@ -21,5 +21,6 @@ int main()
     printf("Symbol loaded successfully\n");
 
     fun(1, 2);
+    dlclose(handle);
     return 0;
 }
